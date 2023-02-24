@@ -1,10 +1,10 @@
 import { Route, Routes } from 'react-router-dom';
 
-import { Home } from '../pages/Home/component';
+import { ConnectedComponent } from '../pages/Home/component';
 
 export const PostApp = () =>  (
   <Routes>
-    <Route path="/" element={<Home/>} />
+    <Route path="/" element={<ConnectedComponent/>} />
     <Route
       path="*"
       element={

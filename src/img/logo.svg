@@ -1,0 +1,12 @@
+<svg _ngcontent-mrh-c234="" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 283.46 48.25" xml:space="preserve"
+    class="logo__img d-block" style="enable-background: new 0 0 283.46 48.25;">
+    <g _ngcontent-mrh-c234="">
+        <path _ngcontent-mrh-c234=""
+            d="M27.31,34.18v-6.74h-5.73v6.74H17.2l5.32,5.32c1.07,1.07,2.8,1.07,3.87,0l5.32-5.32H27.31z
+                 M14.33,31.31v-14.5l-5.32,5.32c-1.07,1.07-1.07,2.8,0,3.87L14.33,31.31z M21.58,13.95v6.74h5.73v-6.74h4.38l-5.32-5.32
+                c-1.07-1.07-2.8-1.07-3.87,0l-5.32,5.32H21.58z M39.87,22.13l-5.32-5.32v14.5L39.87,26C40.94,24.93,40.94,23.2,39.87,22.13z"
+            style="fill: #DA292B;"></path>
+        <rect _ngcontent-mrh-c234="" y="0" width="215" height="31" style="fill: none;"></rect>
+    </g>
+</svg>
