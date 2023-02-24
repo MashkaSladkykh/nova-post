@@ -1,7 +1,8 @@
-import { SET_INVOICES } from './types';
+import { SET_INVOICES, SET_WAREHOUSES } from './types';
 
 const initialState = {
   invoices: [],
+  warehouses: [],
 };
 
 export const post = (state = initialState, action) => {
@@ -11,6 +12,11 @@ export const post = (state = initialState, action) => {
       ...state,
       invoices: action.payload,
     };
+  case SET_WAREHOUSES:
+    return {
+      ...state,
+      warehouses: action.payload,
+    };  
 
   default:
     return state;
